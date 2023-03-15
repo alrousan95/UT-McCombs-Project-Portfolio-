@@ -1,0 +1,1 @@
+Gamers' Arena is a website that provides information about video games. As an analytics lead, you must design an interactive dashboard that helps the director of the company make a decision on a new sales model (a subscription model) that will attract more gamers to our platform. In order to answer these questions, a dashboard needs to be created using Tableau.
