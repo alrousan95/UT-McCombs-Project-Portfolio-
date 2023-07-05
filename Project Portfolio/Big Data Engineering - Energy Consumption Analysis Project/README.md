@@ -1,3 +1,4 @@
-#Title: Big Data Engineering Project
+# Title: Big Data Engineering Project
 
+Description:
 The business problem involves installing smart meters to track energy consumption in households. As a data engineer, the objective is to explore and understand the incoming data. The data includes details on acorn groups and profiles of people within each group, which is provided in an Excel spreadsheet called "acorn_details.xlsx." The attributes studied are represented in the first three columns, with the ACORN-X index indicating the relative prevalence of the attribute within the ACORN group compared to the national scale. For example, an index value of 150 means that there are 1.5 times more people with that attribute in the ACORN group compared to the national scale. The data engineer's task is to analyze and summarize this information to gain insights into the energy consumption trends and inform future plans.
